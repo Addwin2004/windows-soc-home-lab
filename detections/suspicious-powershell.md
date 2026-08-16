@@ -25,5 +25,5 @@ Example:
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "Write-Output 'SOC Lab PowerShell Test'"
-
+```
 <img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/7b21a78d-38ca-480d-aaef-600199b69bb5" />
