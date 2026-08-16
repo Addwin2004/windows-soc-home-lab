@@ -33,3 +33,5 @@ index=main "EventID>4625"
 | stats count as FailedAttempts by _time host TargetUserName IpAddress
 | where FailedAttempts >= 5
 | sort -_time
+```
+<img width="940" height="333" alt="image" src="https://github.com/user-attachments/assets/6c69d551-e6ec-44cc-8d1f-90ebae36e857" />
